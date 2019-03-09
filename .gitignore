@@ -14,5 +14,4 @@ settings.gradle
 .idea/gradle.xml
 .idea/misc.xml
 .idea/workspace.xml
-gradle.properties
 src/
