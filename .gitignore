@@ -1,0 +1,18 @@
+ .gradle
+.idea/
+build.gradle
+build/
+gradle/
+gradlew
+gradlew.bat
+settings.gradle
+.idea/vcs.xml
+.gradle/
+.idea/.name
+.idea/codeStyles/
+.idea/encodings.xml
+.idea/gradle.xml
+.idea/misc.xml
+.idea/workspace.xml
+gradle.properties
+src/
