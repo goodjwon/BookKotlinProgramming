@@ -1,11 +1,9 @@
  .gradle
 .idea/
-build.gradle
 build/
 gradle/
 gradlew
 gradlew.bat
-settings.gradle
 .idea/vcs.xml
 .gradle/
 .idea/.name
