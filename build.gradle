@@ -1,6 +1,6 @@
 plugins {
     id 'java'
-    id 'org.jetbrains.kotlin.jvm' version '1.3.10'
+    id 'org.jetbrains.kotlin.jvm' version '1.3.72'
 }
 
 group 'com.programming.kotlin'
@@ -9,7 +9,7 @@ apply plugin: 'kotlin'
 apply plugin: 'application'
 mainClassName = "com.programming.kotlin.chapter01.ProgramKt"
 
-sourceCompatibility = 1.8
+sourceCompatibility = 1.11
 
 repositories {
     mavenCentral()
